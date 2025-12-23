@@ -11,7 +11,7 @@ Initial breakout board designed to validate pinout, basic operation, and electri
 <br>
 
 <div align="left">
-  <img src="TMC2100-TA-T_Breakout%20Layout.png" alt="TMC2100 Breakout Board Layout" width="500px" style="display: block; margin-left: auto; margin-right: auto;">
+  <img src="TMC2100-TA-T%20Breakout%20Layout.png" alt="TMC2100 Breakout Board Layout" width="500px" style="display: block; margin-left: auto; margin-right: auto;">
 </div>
 <br>
 
